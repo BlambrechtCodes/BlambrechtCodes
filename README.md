@@ -1,15 +1,16 @@
-- 👋 Hello World! I’m @BlambrechtCodes, but you can call me B-Dog.
-- 👀 I’m a student at UWL Majoring In Computer Science and Masters of Software Engineering. I enjoy learning about AI, Machine Learning, and Sorting Algorithms!
-- 🌱 I’m currently (On the side) learning about Facial Recognition (With Machine Learning Integration) and (In the Classroom) interfaces.
-- 💞️ I’m looking to collaborate on projects that can help people better their lives and are on modern concepts, such as AI or Image Processing.
-- 📫 If you are interested, feel free to email me at blambrecht04@gmail.com. I'm looking forward to hearing from you!
-- 🫠 By The Way: I Might Not Be Able To Respond To Messages During Certain Seasons of the Year, as My College Schedule Is Incredibly Busy!
+### Hello There 👋
 
-- Thank You For Visiting My Github Page! Code On!
+I am Brendan Lambrecht, a student at UWL majoring in Computer Science. I have spent over 4 years of experience learning about object-oriented programming, programming structures, AI, machine learning, and a variety of other topics. Since 2023, I have been attending College to learn more about the field of computer science and better decide what my specialty (or specialties) will be. To see my profile in detail, check out my LinkedIn Profile!
 
-Best,
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendan-lambrecht-a4737a296/)
 
-@BlambrechtCodes
+## Skills
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## Skills
+Want To Reach Me? Email Me @ Blambrecht04@gmail.com
+
 
 <!---
 BlambrechtCodes/BlambrechtCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
