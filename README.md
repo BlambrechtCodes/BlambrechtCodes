@@ -7,6 +7,7 @@ I am Brendan Lambrecht, a student at UWL majoring in Computer Science. I have sp
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![Eclipse]([https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white))
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## Skills
