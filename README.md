@@ -6,10 +6,11 @@ I am Brendan Lambrecht, a student at UWL majoring in Computer Science. I have sp
 
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## Skills
-Want To Reach Me? Email Me @ Blambrecht04@gmail.com
+Want To Reach Me? Email Me @ blambrecht04@gmail.com
 
 
 <!---
