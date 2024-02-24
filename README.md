@@ -1,4 +1,4 @@
-##### Hello There 👋
+## Hello There 👋
 
 I am Brendan Lambrecht, a student at UWL majoring in Computer Science. I have spent over 4 years of experience learning about object-oriented programming, programming structures, AI, machine learning, image processing, and a variety of other topics. Since 2023, I have been attending College to learn more about the field of computer science and better decide what my specialty (or specialties) will be. To see my profile in detail, check out my LinkedIn Profile!
 
