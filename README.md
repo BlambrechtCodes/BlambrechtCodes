@@ -14,3 +14,8 @@ My name is Brendan Lambrecht, a Computer Science & Software Engineering Major st
 
 ## Outreach
 Want To Reach Me? Email Me at blambrecht04@gmail.com
+
+# My Statistics:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
