@@ -1,6 +1,6 @@
 # Hello There 👋
 
-My name is Brendan Lambrecht, a Computer Science & Software Engineering Major studying at UWL. I have spent over 5 years of experience learning about `OOP`, `AI`, `ML`, `Image Processing`, `Data Structures`, and a variety of other topics. Since fall of 2023, I have  attended College to learn computer science and better decide what my specialty (or specialties) will be. To see my profile in detail, check out my LinkedIn Profile!
+My name is Brendan Lambrecht, a Computer Science & Software Engineering Major studying at UWL. I have spent over 5 years of experience learning about `OOP`, `AI`, `ML`, `Image Processing`, `Data Structures`, and a variety of programming concepts. Since fall of 2023, I have  attended College to learn computer science and better decide what my specialty (or specialties) will be. To see my profile in detail, check out my LinkedIn Profile!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanlambrecht/)
 
@@ -14,9 +14,3 @@ My name is Brendan Lambrecht, a Computer Science & Software Engineering Major st
 
 ## Outreach
 Want To Reach Me? Email Me at blambrecht04@gmail.com
-
-
-<!---
-BlambrechtCodes/BlambrechtCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
