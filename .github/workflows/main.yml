@@ -1,4 +1,4 @@
-name: Wakatime Charts
+name: Wakatime Stats Charts Generator
 
 on:
   workflow_dispatch:
@@ -10,6 +10,7 @@ jobs:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: divykj/wakatime-charts@master
+      - uses: dvjn/wakatime-charts@v0.3.1
+            
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
