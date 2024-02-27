@@ -16,9 +16,3 @@ My name is Brendan Lambrecht, a Computer Science & Software Engineering Major st
 Want To Reach Me? Email Me at blambrecht04@gmail.com
 
 # My Statistics:
-
-<!--START_SECTION:waka-->
-              - name: WakaTime Stats Charts Generator
-                uses: dvjn/wakatime-charts@v0.3.1
-            
-<!--END_SECTION:waka-->
