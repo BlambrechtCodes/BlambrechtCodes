@@ -12,7 +12,7 @@ My name is Brendan Lambrecht, a Computer Science & Software Engineering Major st
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)
 
-## Skills
+## Outreach
 Want To Reach Me? Email Me at blambrecht04@gmail.com
 
 
