@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-My name is Brendan Lambrecht, a Computer Science & Software Engineering Major studying at UWL. I have spent over 5 years of experience learning about object-oriented programming, programming structures, AI, machine learning, image processing, and a variety of other topics. Since 2023, I have been attending College to learn more about the field of computer science and better decide what my specialty (or specialties) will be. To see my profile in detail, check out my LinkedIn Profile!
+My name is Brendan Lambrecht, a Computer Science & Software Engineering Major studying at UWL. I have spent over 5 years of experience learning about `object-oriented programming`, `programming structures`, `AI`, `machine learning`, `image processing`, and a variety of other topics. Since 2023, I have been attending College to learn more about the field of computer science and better decide what my specialty (or specialties) will be. To see my profile in detail, check out my LinkedIn Profile!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanlambrecht/)
 
