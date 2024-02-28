@@ -13,4 +13,4 @@ My name is Brendan Lambrecht, a Computer Science & Software Engineering Major st
 ![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)
 
 ## Outreach
-Want To Reach Me? Email Me at blambrecht04@gmail.com
+To contact me, please send an email to blambrecht04@gmail.com.
