@@ -1,13 +1,4 @@
-<h3 align="left">
-    Hi There
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />
-    I'm Brendan!
-</h3>
-
-
+Hello There 👋
 
 My name is Brendan Lambrecht, a Computer Science & Software Engineering Major studying at UWL. I have spent over 5 years of experience learning about `OOP`, `AI`, `ML`, `Image Processing`, `Data Structures`, and a variety of programming concepts. Since fall of 2023, I have  attended College to learn computer science and better decide what my specialty (or specialties) will be. To see my profile in detail, check out my LinkedIn Profile!
 
