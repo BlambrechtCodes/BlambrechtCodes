@@ -1,4 +1,11 @@
-# Hello There ![wave-2](https://github.com/BlambrechtCodes/BlambrechtCodes/assets/132915020/16bf1c46-e100-4d7e-a7e3-ea71befad045)
+<h3 align="center">
+    Hi There
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    I'm Philip!
+</h3>
 
 
 
