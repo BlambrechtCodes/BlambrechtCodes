@@ -1,4 +1,5 @@
-# Hello There 👋![wave](https://github.com/BlambrechtCodes/BlambrechtCodes/assets/132915020/3a51b769-7cc8-4cd1-bf7f-9a22dd5e606f)
+# Hello There ![wave-2](https://github.com/BlambrechtCodes/BlambrechtCodes/assets/132915020/16bf1c46-e100-4d7e-a7e3-ea71befad045)
+
 
 
 My name is Brendan Lambrecht, a Computer Science & Software Engineering Major studying at UWL. I have spent over 5 years of experience learning about `OOP`, `AI`, `ML`, `Image Processing`, `Data Structures`, and a variety of programming concepts. Since fall of 2023, I have  attended College to learn computer science and better decide what my specialty (or specialties) will be. To see my profile in detail, check out my LinkedIn Profile!
