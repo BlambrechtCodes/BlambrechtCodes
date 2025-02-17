@@ -27,7 +27,7 @@
 
 Let's connect and build something awesome together! 😊
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanlambrecht/)
+[![My LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanlambrecht/)
 
 ## Outreach
 To contact me, please send an email to blambrecht04@gmail.com.
