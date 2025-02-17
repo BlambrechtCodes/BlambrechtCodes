@@ -1,19 +1,33 @@
-# Hello There 👋
+## 👋 Hi there! I'm Brendan
 
-My name is Brendan Lambrecht, a Computer Science & Software Engineering Major studying at UWL. I have spent over 5 years of experience learning about `OOP`, `AI`, `Machine Learning`, `Deep Learning` and a variety of programming concepts. Since fall of 2023, I have attended College to learn computer science and better decide what my specialty (or specialties) will be. To see my profile in detail, check out my LinkedIn Profile!
+### 🚀 Aspiring Software Engineer | 💻 CS Student | ⚽ Soccer Enthusiast
+
+🎓 Second-year college student with a passion for coding and problem-solving. My journey in tech is driven by curiosity and a desire to create impactful solutions.
+
+### 🛠️ Tech Stack
+- 💪 Proficient: Java, Python
+- 🌱 Growing: JavaScript, TypeScript, HTML, CSS, SCSS
+- 🧠 Exploring: Assembly, C, SQL, Machine Learning, Deep Learning
+
+### 🌟 What I bring to the table
+- 🔍 Detail-oriented approach to crafting quality solutions
+- 📚 Self-driven learner, always eager to master new technologies
+- 🤝 Team player with experience juggling multiple priorities
+- 💡 Creative problem-solver, turning challenges into opportunities
+
+### 🎯 Goals
+- 🌉 Join a leading tech company in California or Seattle
+- 🌱 Continuously expand my skillset in emerging technologies
+- 🤝 Collaborate on innovative projects that make a difference
+
+### 🌍 Beyond Coding
+- ⚽ Soccer aficionado (Ask me about Barcelona and Madrid!)
+- 🌴 Travel enthusiast (Mexico adventure under my belt!)
+- 🧠 Lifelong learner, always curious about new CS topics
+
+Let's connect and build something awesome together! 😊
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanlambrecht/)
-
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Assembly](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 ## Outreach
 To contact me, please send an email to blambrecht04@gmail.com.
