@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! &nbsp;
 
 I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
@@ -18,7 +18,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
 
