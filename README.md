@@ -25,6 +25,11 @@ As a software engineer, I enjoy applying my attention to detail. That's why I li
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
