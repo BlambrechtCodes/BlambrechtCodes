@@ -1,33 +1,41 @@
-## 👋 Hi there! I'm Brendan
+### <samp>&gt; Hi there, I'm Brendan Lambrecht <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-### 🚀 Aspiring Software Engineer | 💻 CS Student | ⚽ Soccer Player
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
 
-🎓 Second-year college student with a passion for coding and problem-solving. My journey in tech is driven by curiosity and a desire to create impactful solutions.
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-### 🛠️ Tech Stack
-- 💪 Proficient: Java, Python, C
-- 🌱 Growing: JavaScript, TypeScript, HTML, CSS, SCSS, Assembly, SQL
-- 🧠 Exploring: Machine Learning, Deep Learning
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
-### 🌟 What I bring to the table
-- 🔍 Detail-oriented approach to crafting quality solutions
-- 📚 Self-driven learner, always eager to master new technologies
-- 🤝 Team player with experience juggling multiple priorities
-- 💡 Creative problem-solver, turning challenges into opportunities
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-### 🎯 Goals
-- 🌉 Join a leading tech company in California or Seattle
-- 🌱 Continuously expand my skillset in emerging technologies
-- 🤝 Collaborate on innovative projects that make a difference
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+  
 
-### 🌍 Beyond Coding
-- ⚽ Soccer aficionado
-- 🌴 Travel enthusiast
-- 🧠 Lifelong learner, always curious about new topics
+**Talking about Personal Stuffs:**
 
-Let's connect and build something awesome together!
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
 
-[![My LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanlambrecht/)
+</br>
 
-## Outreach
-To contact me, please send an email to blambrecht04@gmail.com.
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+
+
+
