@@ -1,6 +1,6 @@
 <!-- Banner at the top of your README.md -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0e76a8&section=header&text=Hi%20I'm%20Brendan%20Lambrecht%20👋&fontSize=45&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20|%20Soccer%20Fan%20|%20Lifelong%20Learner&descSize=22&descAlign=62" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0e76a8&section=header&text=Hi%20I'm%20Brendan%20Lambrecht%20👋&fontSize=45&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20|%20Problem%20Solver%20|%20Inspiring%20Innovation&descSize=22&descAlign=62" alt="header" />
 </p>
 
 <!-- Social Badges -->
@@ -22,7 +22,7 @@
 
 ### 👋 Welcome!
 
-I'm **Brendan**, a student on the path to becoming a full-stack software engineer. I love solving problems, learning new things, and creating projects that make a difference. I’m passionate about technology, soccer, and exploring the world’s endless curiosities.
+I'm **Brendan**, a UWL student on the path to becoming a full-stack software engineer. I enjoy solving problems, learning new things, and creating projects that make a difference for my community. I’m passionate about technology, sports, and exploring the world’s endless curiosities.
 
 ---
 
