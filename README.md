@@ -59,7 +59,6 @@ I'm **Brendan**, a UWL student on the path to becoming a full-stack software eng
 No activity tracked
 ```
 
-
 <!--END_SECTION:waka-->
 
 ---
