@@ -1,6 +1,6 @@
 <!-- Banner at the top of your README.md -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0e76a8&section=header&text=Hi%20I'm%20Brendan%20Lambrecht%20👋&fontSize=45&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20|%20Problem%20Solver%20|%20Inspiring%20Innovation&descSize=22&descAlign=62" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0e76a8&section=header&text=Hi%20I'm%20Brendan%20Lambrecht%20👋&fontSize=45&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20|%20Problem%20Solver%20|%20Innovator&descSize=22&descAlign=62" alt="header" />
 </p>
 
 <!-- Social Badges -->
