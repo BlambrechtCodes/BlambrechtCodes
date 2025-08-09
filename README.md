@@ -6,13 +6,13 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/brendanlambrecht/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-My%20LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://coders.cs.uwlax.edu/home">
-    <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CODERS%20Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/thebdoglife/">
-    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-My%20Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
 
