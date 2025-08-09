@@ -53,7 +53,7 @@ I'm **Brendan**, a UWL student on the path to becoming a full-stack software eng
 - 📚 **Learning:** Data Structures & Algorithms on [LeetCode](https://leetcode.com/u/BlambrechtCodes/)
 - 💬 **Ask me anything:** I love helping others!
 - 📫 **Contact:** blambrecht04@gmail.com
-- 📄 **[Resume](https://www.linkedin.com/in/brendanlambrecht/overlay/1740504443712/single-media-viewer/?profileId=ACoAAEdaIqkBw_brLlMJSvAIpQ0UD7EhV6VwSc0)**
+- 📄 **[Resume](https://www.linkedin.com/in/brendanlambrecht/?profileId=ACoAAEdaIqkBw_brLlMJSvAIpQ0UD7EhV6VwSc0)**
 
 ---
 
