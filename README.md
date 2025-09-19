@@ -57,17 +57,6 @@ I'm **Brendan**, a UWL student on the path to becoming a full-stack software eng
 
 ---
 
-### ⏳ This Week I Spent My Time On
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
-
 ### 📈 My GitHub Stats
 
 <p>
