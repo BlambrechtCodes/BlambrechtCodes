@@ -20,13 +20,13 @@
 
 <img align="right" alt="Coding" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="320" />
 
-### 👋 Welcome!
+### Welcome!
 
 I'm **Brendan**, a UWL student on the path to becoming a full-stack software engineer. I enjoy solving problems, learning new things, and creating projects that make a difference for my community. I’m passionate about technology, sports, and exploring the world’s endless curiosities.
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -46,23 +46,13 @@ I'm **Brendan**, a UWL student on the path to becoming a full-stack software eng
 
 ---
 
-### 🎯 About Me
+### About Me
 
-- ⚽ **Soccer fan & player:** Barcelona, Madrid, and World Cup action!
 - 💻 **Building:** Something cool for [CODERS](https://coders.cs.uwlax.edu/home)
 - 📚 **Learning:** Data Structures & Algorithms on [LeetCode](https://leetcode.com/u/BlambrechtCodes/)
 - 💬 **Ask me anything:** I love helping others!
 - 📫 **Contact:** blambrecht04@gmail.com
 - 📄 **[Resume](https://www.linkedin.com/in/brendanlambrecht/?profileId=ACoAAEdaIqkBw_brLlMJSvAIpQ0UD7EhV6VwSc0)**
-
----
-
-### 📈 My GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlambrechtCodes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlambrechtCodes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 
 ---
 
