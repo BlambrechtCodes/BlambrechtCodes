@@ -49,10 +49,9 @@ I'm **Brendan**, a UWL student on the path to becoming a full-stack software eng
 ### About Me
 
 - 💻 **Building:** Something cool for [CODERS](https://coders.cs.uwlax.edu/home)
-- 📚 **Learning:** Data Structures & Algorithms on [LeetCode](https://leetcode.com/u/BlambrechtCodes/)
-- 💬 **Ask me anything:** I love helping others!
+- 📚 **Currently Learning About:** Robot Framework MCP Capabilities for Automation Testing
 - 📫 **Contact:** blambrecht04@gmail.com
-- 📄 **[Resume](https://www.linkedin.com/in/brendanlambrecht/?profileId=ACoAAEdaIqkBw_brLlMJSvAIpQ0UD7EhV6VwSc0)**
+- 📄 **[Resume](https://www.linkedin.com/in/brendanlambrecht/)**
 
 ---
 
