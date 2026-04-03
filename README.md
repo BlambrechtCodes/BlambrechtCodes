@@ -48,10 +48,11 @@ I'm **Brendan**, a UWL student on the path to becoming a full-stack software eng
 
 ### About Me
 
-- 💻 **Building:** Something cool for [CODERS](https://coders.cs.uwlax.edu/home)
-- 📚 **Currently Learning About:** Robot Framework MCP Capabilities for Automation Testing
-- 📫 **Contact:** blambrecht04@gmail.com
-- 📄 **[Resume](https://www.linkedin.com/in/brendanlambrecht/)**
+- **Currently Working on:** Something cool for [CODERS](https://coders.cs.uwlax.edu/home)
+- **Currently Learning About:** Robot Framework MCP Capabilities for Automation Testing
+- **My Portfolio Website:** https://blambrechtcodes.github.io
+- **Contact:** blambrecht04@gmail.com
+- **[Resume](https://blambrechtcodes.github.io/about)**
 
 ---
 
