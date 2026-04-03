@@ -5,14 +5,17 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/brendanlambrecht/">
-    <img src="https://img.shields.io/badge/-My%20LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/brendanlambrecht/" target="_blank" rel="noopener noreferrer">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+  </a>
+  <a href="https://blambrechtcodes.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://coders.cs.uwlax.edu/home">
-    <img src="https://img.shields.io/badge/CODERS%20Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Latest%20Project-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Latest Project" />
   </a>
   <a href="https://www.instagram.com/thebdoglife/">
-    <img src="https://img.shields.io/badge/-My%20Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -48,10 +51,10 @@ I'm **Brendan**, a UWL student on the path to becoming a full-stack software eng
 
 ### About Me
 
-- **Currently Working on:** Something cool for [CODERS](https://coders.cs.uwlax.edu/home)
+- **Latest Project:** A Brand-New [Website](https://coders.cs.uwlax.edu/home) Collaboration for CODERS of UWL
 - **Currently Learning About:** Robot Framework MCP Capabilities for Automation Testing
-- **My Portfolio Website:** https://blambrechtcodes.github.io
-- **Contact:** blambrecht04@gmail.com
+- [**My Portfolio**](https://blambrechtcodes.github.io)
+- [**Contact Me**](https://blambrechtcodes.github.io/links)
 - **[Resume](https://blambrechtcodes.github.io/about)**
 
 ---
