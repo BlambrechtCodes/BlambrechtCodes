@@ -36,10 +36,9 @@
 
 I’m a University of Wisconsin–La Crosse student working toward a career in **full-stack software engineering**. I enjoy turning ideas into useful, reliable applications—especially projects that solve practical problems and support my community.
 
-- 🔭 Currently building: A collaborative website for [CODERS of UWL](https://coders.cs.uwlax.edu/home)
-- 🌱 Currently learning: Robot Framework and MCP-enabled automation testing
+- 🔭 Latest Project: A collaborative website for [CODERS of UWL](https://coders.cs.uwlax.edu/home)
+- 🌱 Currently learning: Leadership in Software Engineering Teams
 - 💡 Interested in: Full-stack development, software testing, automation, and thoughtful product design
-- ⚡ Outside of coding: Sports, technology, and learning about the world around me
 
 ---
 
